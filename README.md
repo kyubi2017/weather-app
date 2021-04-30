@@ -9,7 +9,7 @@ this is a copy of  one of my projects and i created with :
 - 
 - API used: https://openweathermap.org/api
 
-you can visit this copy of my website  :  <a href="https://weather-app-three-rho.vercel.app/" >from here</a>
+you can visit this copy of my website  :  <a href="https://weather-app-three-tan.vercel.app/" >from here</a>
 
 feel free to use this or see the code of this project if it helps you
 
